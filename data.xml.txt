@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<accountID bankname="ukb" brojanke="989">12345</accountID>
+<swiftnumber value="23456"/>
